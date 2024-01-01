@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "data-analytics-project-409620",
+  "private_key_id": "4ecb83abec8057a9761fc611894b213239981a8f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCYYE52JombPM/C\nVzwHUQKG7dIDKWdl2NYqA8O5vGpmAUmGwZGnf/nfR/EPoTCyZqI+DnMUUwbipVtr\nthpEsYK0kn5ot/WHCxkuox1DL5Gq/7ab394fjem6BLVttONNA3vHfJdVgh3mvUR/\nqsVjsgZIXtnSJECyLXCYMTwy8OngSQhD5wRHLSZ393S8Tg0XQ9gTSYibc96Wu1yP\nWDMgLJ0oPYZRaahTwG2uCM21l04rk++hD5uUPwe0Tdz/vCkjQpKSumrrFlE03VNY\nJRpc1Cmmo7PvpFsz9MGgN0lGv/ClcuK0KZCt83xNPLu14E3wgOwyjiEQ1f45x8bL\nnhIDTipfAgMBAAECggEAArHytqia1s8+C31t1zafGVIxMejJu+WYcCN4kvCatIAs\nU+uuOay2ojThtiQ55MXnnmUKCF9+59kDOMX+np1sfD4lFJFrEH7pQfJqTOsVTqrO\n3jXuS1eVZ+VibMooxQ7H4duPH645UitMgAeTYzPduZT35v1zftNKl7Pd5owX+ZAP\neSb/uKr1BZqZqOK7gsUI2PLiiLP6ooyPpcoy5bQqi8IF5+8WCd/OKvzA075SJSin\nf6jmR9OXtrbId8Rs1q8uXJfWCx1nIfspBWHEmevBnJZ3YOY+ZW5SF5YJL80/3WOU\nJZGvMhGOFOGu7llj1jPkMAWml4upw9G1ifhPhGufQQKBgQDHrbRLjQizLKbjXEQU\nFWYLm+CQl2EM/BJ7oTpF4sUBg4cWG33Zdre5Ruftn2PXzGZByQZpnF7g4psLD2Wj\nHjx/AEBVGx5dTtU8bvctdSXOFZnmLFXd1bXXh+T0GAgK9aeZRPFXhlFE4D0/xWQS\n0HLPIr3URH3W0RS9UJzOFgBSwQKBgQDDWwRVo8wbIBylqNUQyOoRFJDfXzUWBitk\nsval4/vjqB7dBlR/CRdFeOyTROC0p87mfujHzPxDm+LHEb8bzeGEEhVikWggNEtf\nyA/bYSRuQz7jb4qRnF3darThmrDBqGh8dF+MpzqIKOsPbA14pda928QXYhjGiLpk\nprq1Bh5lHwKBgHRqWKBnpHfaA56wz1wqMal5As8qAsIwQJJlqHTQRm2ggmSoOJJN\nvcW+ij+m2u4Y1FFsY1m1ejeAxkYHfwk/+qNMwTUdL3HVIUsvotqU3yqsu2JP3OwN\nygvTxe9uB1pkaIdag560x7LxTaRdb//sGdOb/LLCD9/rXD0Xv6QDfcLBAoGBAKnW\nJx6NGJU8has/7Hx7L4NJ7elETFKpanBRZj0yx3pUXwCo0CzhKmorhwFBkFl+ylF5\nY8bQX0An9jA7LXpusvCvCAh5gZz92cmblK2U9qclrzbrcfzFhJVKf5bjdWfnkW8h\nfTA68pgNes4dklihVOAaf5AUqJVxqRp4GTnn5+ThAoGAcz76zKe4jq6FD/xIXvGl\nrBii96F6gYHWwcbdHGprceE124mBLlWocrESEMbJZvwFfmSD6HohRaXLRlHvXi2Z\nbjo3e1BvEommEsvEmE/xWVSIhoZvdgfcrj/DLVLgfZDmNQxLeDIGSENzlkrjw+Wj\nkDkl630wGOwydR64VkgOz5c=\n-----END PRIVATE KEY-----\n",
+  "client_email": "data-analytics-proyect@data-analytics-project-409620.iam.gserviceaccount.com",
+  "client_id": "107372875231894831863",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/data-analytics-proyect%40data-analytics-project-409620.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
